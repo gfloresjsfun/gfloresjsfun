@@ -1,24 +1,12 @@
 
 
-<h1 align="center">Senior Web Developer (.NET, Angular, Node)</h1>
-
-###
-<p align="center">
-    <a href=" https://www.linkedin.com/in/gary-w-37790a21b/" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/LinkedinBtn.png" width="150px" /></a>
-    <a href="https://GaryWright87.github.io" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/PortfolioBtn.png" width="150px" /></a>
-</p>
+<h1 align="center">Senior Software Engineer (Angular, Rect, React Native, Next.js, Gatsby, Node, Python, Java, AWS)</h1>
 
 ---
-### Top-performing and creative full-stack web developer with 8+ years of experience
-####   I am a top-performing and creative full-stack web developer with 8+ years of experience. I am highly skilled in developing, maintaining, and testing web applications with C#, .NET, ASP.NET, Angular, React, Node, Next, Tailwind CSS, MongoDB, PostgreSQL, GraphQL, etc. I have expertise in building web pages, integrating functionalities to websites, working with a team of designers and software engineers to implement any ideas or changes, and integrating 3rd party APIs according to project specifications. 
+####   I am a top-performing and creative full-stack web developer with 8+ years of experience. I am highly skilled in developing, maintaining, and testing web applications with React, Node, Next, Tailwind CSS, MongoDB, PostgreSQL, GraphQL, etc. I have expertise in building web pages, integrating functionalities to websites, working with a team of designers and software engineers to implement any ideas or changes, and integrating 3rd party APIs according to project specifications. 
 
-####   Full Stacks:
-####   - C#, .NET Framework, ASP.NET, C++
-####   - Angular, React, Next, Node, Tailwind CSS, JavaScript, Typescript, HTML, CSS
-####   - RESTful API, 3rd party API integration
-####   - MongoDB, PostgreSQL, MySQL
-
-####   In my personal life, my other interests include music, sports, and gaming.
+####   Frameworks and technical skills:
+####   - React, Next.js, Redux, React Native, Angular, TypeScript, JavaScript, Node.js, HTML5, CSS3, TailwindUI, Webpack, Babel, npm, Express, Backbone, jQuery, Bootstrap, Material UI, Storybook, Chart.js, D3.js, Three.js Strapi, Contentful, Prismic, Sanity.io, Apollo Client, GraphQL, RESTful API, Python, Django, Flask, Java, PostgreSQL, MongoDB, MySQL, AWS EC2, S3, Amplify, Lambda, GCP, Firebase, DevOps, CI/CD, Docker
 
 ---
 ### Status
