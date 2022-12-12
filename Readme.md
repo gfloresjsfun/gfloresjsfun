@@ -5,9 +5,9 @@
 
 ####   I am a top-performing and creative full-stack web developer with 8+ years of experience. I am highly skilled in developing, maintaining, and testing web applications with React, Node, Next, Tailwind CSS, MongoDB, PostgreSQL, GraphQL, etc. I have expertise in building web pages, integrating functionalities to websites, working with a team of designers and software engineers to implement any ideas or changes, and integrating 3rd party APIs according to project specifications.
 
-## �️ My favorite tools
+**My favorite tools**
 
-### �‍� Programming and markup languages
+### Programming and markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3Amhaley-jsfun+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -20,7 +20,7 @@
     <a href="https://github.com/search?q=user%3Amhaley-jsfun+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>    
 </p>
 
-### � Frameworks and libraries
+### Frameworks and libraries
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -58,7 +58,7 @@
     <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" />
 </p>
 
-### �️ Databases and cloud hosting
+### Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
