@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-####   I am a top-performing and creative full-stack web developer with 10+ years of experience. I am highly skilled in developing, maintaining, and testing web applications with React, Node, Next, Tailwind CSS, MongoDB, PostgreSQL, GraphQL, etc. I have expertise in building web pages, integrating functionalities to websites, working with a team of designers and software engineers to implement any ideas or changes, and integrating 3rd party APIs according to project specifications.
-
 
 ### Programming and markup languages
 
